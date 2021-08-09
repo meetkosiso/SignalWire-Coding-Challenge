@@ -1,6 +1,6 @@
 # SignalWire Coding Challenge
 
-An service that accepts a payload, stores the data and send a webhook request to https://webhook.site/
+A service that accepts a payload, stores the data and send a webhook request to https://webhook.site/
 
 ## Database
 
