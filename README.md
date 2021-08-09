@@ -4,7 +4,7 @@ A service that accepts a payload, stores the data and send a webhook request to 
 
 ## Database
 
-I used an in memory data store that is not persisted on disk and that gets cleared once the service is stopped or killed
+I used an in memory data store that is not persisted on disk and that gets cleared once the service is stopped or killed.
 This was built only for the purpose of this Challenge, so you will not have to install much dependency or doing
 many configurations in order to get the service to run.
 
